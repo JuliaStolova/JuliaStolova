@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Ignis
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning C#, JS
-- 📫 How to reach me: discord - ignisreginae
-- ⚡ Fun fact: there is no fun facts.
+- 🗡️ Czech IT student
+- 🕹️ Game developer in Unity
+- 🫡 C#, JS
+- 👤 17 years old
 
 <!---
 JuliaStolova/JuliaStolova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
