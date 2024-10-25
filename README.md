@@ -1,7 +1,5 @@
 - 🗡️ Czech IT student
 - 🕹️ Game developer in Unity
-- 🖥️ Fontend
-- 🫡 C#, JS, HTML, CSS
 - 👤 17 years old
 
 <!---
